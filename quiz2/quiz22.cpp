@@ -1,11 +1,3 @@
-/*
- * quiz22.cpp
- *
- *  Created on: Apr 24, 2018
- *      Author: richardhouth
- */
-
-
 #include <iostream>
 #include <string>
 using namespace std;
