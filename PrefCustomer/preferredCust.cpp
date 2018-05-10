@@ -1,3 +1,5 @@
+//Richard Houth
+//CS 256 
 #include <iostream>
 #include <string>
 using namespace std;
