@@ -10,7 +10,7 @@ using namespace std;
 class finalExam {
 private:
 
-	vector <char> num;
+	vector <int> num;
 public:
 
 	finalExam();
