@@ -34,6 +34,7 @@ finalExam operator /(finalExam &k) {
 	return output;
 }
 
+//destructor
 finalExam::~finalExam() {
 
 }
